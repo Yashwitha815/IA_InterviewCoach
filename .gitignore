@@ -1,0 +1,5 @@
+.env
+coach_env/
+__pycache__/
+*.py[cod]
+venv/
